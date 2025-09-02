@@ -37,54 +37,6 @@ Welcome to **READ WITH US** - a cutting-edge project that showcases modern devel
 - 📖 **Documentation** - Clear guides and references
 - 🔧 **Easy Setup** - Streamlined installation process
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- **Git** - [Download here](https://git-scm.com/downloads)
-
-### Installation Steps
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/aditikumari27/READ-WITH-US.git
-   cd READ-WITH-US
-   ```
-
-2. **Install dependencies**
-   ```bash
-   # Follow project-specific installation instructions
-   ```
-
-3. **Run the application**
-   ```bash
-   # Follow project-specific run instructions
-   ```
-
-That's it! You're ready to go! 🎉
-
-## 🎯 Usage
-
-### Getting Started
-
-1. **Follow the installation steps above**
-2. **Read the documentation**
-3. **Start exploring the codebase**
-
-### Example
-
-```bash
-# Basic usage example
-READ-WITH-US --help
-```
-
-For more detailed usage instructions, please refer to the project documentation.
-
-## 🤝 Contributing
-
-We love contributions! Here's how you can help make **READ WITH US** even better:
 
 ### 🌟 Ways to Contribute
 
@@ -115,13 +67,6 @@ We love contributions! Here's how you can help make **READ WITH US** even better
 
 <div align="center">
 
-## 📊 Project Stats
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aditikumari27&repo=READ-WITH-US&theme=tokyonight&hide_border=true" alt="Repository Stats"/>
-
-## 🌟 Show Your Support
-
-If this project helped you, please give it a ⭐!
 
 ## 📞 Connect With Me
 
@@ -137,11 +82,6 @@ If this project helped you, please give it a ⭐!
   </a>
 </p>
 
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
